@@ -18,3 +18,12 @@ input{
   box-sizing: border-box;
   margin-bottom: 6px;
 }
+
+button{
+  background-color: #D2691E;
+  color: rgb(255, 255, 255);
+}
+
+h1{
+  margin-top: 0;
+}
